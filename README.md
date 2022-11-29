@@ -1,6 +1,6 @@
 ## Yolov7_SwinTransformer_Tiny
 
-This Repository changes the `Backnone` of YOLOv7 with SwinTransformer_Tiny.
+**This Repository changes the `Backnone` of `YOLOv7` with SwinTransformer_Tiny.**
 
 *Google Colab sometimes cannot run successfully with this Repositories(changed from Bubliiiing's Codes).*
 
@@ -14,4 +14,5 @@ function ConnectButton(){
 }
 setInterval(ConnectButton,60000);
 ```
+
 **`Keep Learning!`**
