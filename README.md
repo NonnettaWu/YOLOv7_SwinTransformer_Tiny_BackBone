@@ -1,6 +1,6 @@
 ## Yolov7_SwinTransformer_Tiny
 
-**This Repository replaces the BackBone `ELAN_Darknet` of `YOLOv7` with `SwinTransformer_Tiny`.**
+**This Repository replaces the BackBone `ELAN_Darknet` of YOLOv7 with `SwinTransformer_Tiny`.**
 
 *Google Colab sometimes cannot run successfully with this Repositories(changed from Bubliiiing's Codes).*
 
