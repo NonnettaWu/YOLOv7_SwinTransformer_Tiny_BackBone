@@ -2,7 +2,7 @@
 
 **This Repository replaces the BackBone `ELAN_Darknet` of YOLOv7 with `SwinTransformer_Tiny`.**
 
-*Google Colab sometimes cannot run successfully with this Repositories(changed from Bubliiiing's Codes).*
+*Google Colab sometimes cannot run successfully with this Repository(changed from Bubliiiing's Codes).*
 
 *Change pytorch version in 1.7.1 will help, i fix it in 2022.09. Good Luck!*
 
