@@ -7,6 +7,7 @@
 *Change pytorch version in 1.7.1 will help, i fix it in 2022.09. Good Luck!*
 
 **To keep Colab online, press key F12 and put below codes on Websites Console, finally run it with Enter key.**
+
 ```
 function ConnectButton(){
 	console.log("Connect pushed");
